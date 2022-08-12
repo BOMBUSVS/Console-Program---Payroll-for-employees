@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop/1.0.0": {
+        "dependencies": {
+          "Vsevolod.LLCpayrollSoftware.Domain": "1.0.0",
+          "Vsevolod.LLCpayrollSoftware.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll": {}
+        }
+      },
+      "Vsevolod.LLCpayrollSoftware.Domain/1.0.0": {
+        "runtime": {
+          "Vsevolod.LLCpayrollSoftware.Domain.dll": {}
+        }
+      },
+      "Vsevolod.LLCpayrollSoftware.Persistence/1.0.0": {
+        "dependencies": {
+          "Vsevolod.LLCpayrollSoftware.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Vsevolod.LLCpayrollSoftware.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vsevolod.LLCpayrollSoftware.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vsevolod.LLCpayrollSoftware.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

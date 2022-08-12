@@ -1,0 +1,42 @@
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.exe
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.deps.json
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.runtimeconfig.json
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.runtimeconfig.dev.json
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\ref\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.pdb
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Domain.dll
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Persistence.dll
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Domain.pdb
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Persistence.pdb
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.AssemblyInfo.cs
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.csproj.CopyComplete
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\ref\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.pdb
+C:\Users\1\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.genruntimeconfig.cache
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.exe
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.deps.json
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.runtimeconfig.json
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.runtimeconfig.dev.json
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\ref\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.pdb
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Domain.dll
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Persistence.dll
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Domain.pdb
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\bin\Debug\net5.0\Vsevolod.LLCpayrollSoftware.Persistence.pdb
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.csproj.AssemblyReference.cache
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.AssemblyInfoInputs.cache
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.AssemblyInfo.cs
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.csproj.CoreCompileInputs.cache
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.csproj.CopyComplete
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\ref\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.dll
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop.pdb
+D:\visual studio\source\repos\LLCpayrollSoftwareDevelop\obj\Debug\net5.0\LLCpayrollSoftwareDevelop.genruntimeconfig.cache

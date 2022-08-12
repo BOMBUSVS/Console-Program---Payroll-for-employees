@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop</AssemblyName>
+    <RootNamespace>Vsevolod.LLCpayrollSoftware.LLCpayrollSoftwareDevelop</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vsevolod.LLCpayrollSoftware.Domain\Vsevolod.LLCpayrollSoftware.Domain.csproj" />
+    <ProjectReference Include="..\Vsevolod.LLCpayrollSoftware.Persistence\Vsevolod.LLCpayrollSoftware.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
